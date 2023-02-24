@@ -1,0 +1,7 @@
+{
+  "name": "My Awesome Card",
+  "description": "A powerful card for your deck!",
+  "image": "https://my-awesome-game.com/images/card.png",
+  "attack": 10,
+  "defense": 5
+}
